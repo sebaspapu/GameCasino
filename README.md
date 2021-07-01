@@ -5,7 +5,7 @@ El juego se centra en la implementación de:
 
 Botón jugar.
 
-Ganar puntos
+Ganar puntos.
 
 Perder puntos.
 
